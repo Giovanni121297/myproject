@@ -1,0 +1,78 @@
+img{
+  height: 100px;
+  margin-top: 50px;
+
+
+}
+
+.titolo{
+  font-size: 30PX;
+  font-style: italic;
+  color: green;
+
+}
+
+.contenitore1{
+  width: 1000px;
+  margin: auto;
+}
+
+header{
+  text-align: center;
+}
+
+.option{
+  background-color: green;
+  margin: 30px;
+  padding: 10px;
+  text-align: center;
+  margin-left: 125px;
+
+
+}
+
+.contenuto{
+  width: 1000px;
+  margin-left: 27px;
+  color: White;
+  margin: auto;
+
+
+}
+
+footer{
+  text-align: center;
+  color: green;
+}
+
+
+.scritte{
+  font-size: 24px;
+}
+
+body{
+  background-image: url(background.jpg);
+  background-size: contain;
+}
+
+
+.rettangolo1{
+  width: 450px;
+  height: 40px;
+  background-color: orange;
+}
+
+.rettangolo2{
+  width: 600px;
+  height: 40px;
+  background-color: green;
+}
+
+.rettangolo3{
+  width: 300px;
+  height: 40px;
+  background-color: red;
+}
+.rettangolo1, .rettangolo2, .rettangolo3{
+  border-radius: 15px;
+}
